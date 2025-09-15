@@ -78,7 +78,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimmttrung&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kimmttrung&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
